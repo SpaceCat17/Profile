@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceCat17. My real name is Nicholas
 - 👀 I’m interested in cyber security and network
-- 🌱 I’m currently on my bachelor degree which is Computer Science(Cyber Security)
+- 🌱 I’m currently on my bachelor degree which is Computer Science(Cyber Security) on third semester
 - 💞️ I’m looking to volunteer on any IT project
 - 📫 feel free to contact me on
      - LinkedIn: https://www.linkedin.com/in/nicholas-5a6191199/
